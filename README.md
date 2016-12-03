@@ -1,4 +1,4 @@
-Here you will get all information about the first version of the Exchange Students Assistant.
+Here you will get all information about the first version of the MOOSE.
 
 See the file NEWS for the user-visible changes from previous releases.
 In addition, there have been bugs fixed.
@@ -11,14 +11,14 @@ For general building and installation instructions, see the file INSTALL.
 What is it ?
 -----------
 
-Exchange Students Assistant is an application developed to help students coming in Finland. Most of the time, it’s hard to find all what they need at the same place. They rather have to visit multiple websites to get a piece of information each time (rent, university, courses …). So we decided to concentrate all the most important content in one application, and give access to unique features as well. This application was developed by exchange students, so we tried to make the content the most accurate and relevant as possible.
+MOOSE is an application developed to help students coming in Finland. Most of the time, it’s hard to find all what they need at the same place. They rather have to visit multiple websites to get a piece of information each time (rent, university, courses …). So we decided to concentrate all the most important content in one application, and give access to unique features as well. This application was developed by exchange students, so we tried to make the content the most accurate and relevant as possible.
 
 Downloading
 -----------
 
-Exchange Students Assistant is available on the Google Play Store : TODO LINK
+MOOSE is available on the Google Play Store : TODO LINK
 
-Exchange Students Assistant will be soon available on the App Store.
+MOOSE will be soon available on the App Store.
 
 
 Documentation
@@ -69,7 +69,7 @@ Developed by Corentin Houdayer.
 
 -------------------------------------------------------------------------------
 Copyright (C) 2016-2017 Hantiz Labs.
-This file is part of Exchange Students Assistant.
+This file is part of MOOSE.
 
 Please do not try to reproduce this application to avoid problems.
 
