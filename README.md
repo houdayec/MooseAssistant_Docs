@@ -16,7 +16,7 @@ MOOSE is an application developed to help students coming in Finland. Most of th
 Downloading
 -----------
 
-MOOSE is available on the Google Play Store : TODO LINK
+MOOSE is available on the Google Play Store : https://play.google.com/store/apps/details?id=fi.corentin.app
 
 MOOSE will be soon available on the App Store.
 
@@ -24,8 +24,8 @@ MOOSE will be soon available on the App Store.
 Documentation
 -------------
 
-All the documentation related to the use of the application is available under TODO LINK
-
+All the documentation related to the use of the application is available under http://moose-application.com/userGuide.html
+GitHub also available : https://github.com/houdayec/welcometofinland.github.io
 
 Development
 -----------
@@ -34,7 +34,7 @@ The purpose of this application was to be the most accessible as possible. We ch
 
 This use web based languages as HTML, CSS, SCSS, JavaScript ( jQuery, AngularJS ) and API provided by HRI & Google.
 
-You can find all the technical specifications as Diagram, Tools, Code structure by following this link : TODO LINK
+You can find all the technical specifications as Diagram, Tools, Code structure by following this link : https://github.com/houdayec/welcometofinland.github.io
 
 
 Bug Reporting
@@ -52,7 +52,7 @@ Git Access
 
 Exchange Students GitHub :
 
-  TODO LINK
+https://github.com/houdayec/welcometofinland.github.io
 
 
 
